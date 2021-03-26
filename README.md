@@ -16,7 +16,7 @@
 
  <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(8).pdf" style="text-decoration:none;"> The BSM-AI project:
 SUSY-AI &minus; generalizing LHC limits on supersymmetry with machine learning</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(9).pdf" style="text-decoration:none;">Jet Flavor Classication in High-Energy Physics with Deep Neural Networks</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(9).pdf" style="text-decoration:none;">Jet Flavor Classification in High-Energy Physics with Deep Neural Networks</a></li>
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(10).pdf" style="text-decoration:none;">Reweighting with Boosted Decision Trees </a></li>                              
