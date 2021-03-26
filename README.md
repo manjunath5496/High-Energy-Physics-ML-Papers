@@ -57,60 +57,51 @@ SUSY-AI &minus; generalizing LHC limits on supersymmetry with machine learning</
 
   <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(30).pdf" style="text-decoration:none;">A Guide to Constraining Effective Field Theories with Machine Learning</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(31).pdf" style="text-decoration:none;">Providing a Shared File System in the Hare
-POSIX Multikernel</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(32).pdf" style="text-decoration:none;">Linux kernel vulnerabilities:
-State-of-the-art defenses and open problems</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(31).pdf" style="text-decoration:none;">Deep Learning and Its
+Application to LHC Physics</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(32).pdf" style="text-decoration:none;">Machine Learning in High Energy Physics Community White Paper</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(33).pdf" style="text-decoration:none;">Robust and Efficient Data Management for a Distributed Hash Table</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(33).pdf" style="text-decoration:none;">Boosting H &rarr; bb with Machine Learning</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(34).pdf" style="text-decoration:none;">Choosing Internet Paths with High Bulk Transfer Capacity</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(34).pdf" style="text-decoration:none;">End-to-End Physics Event Classification with CMS Open Data</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(35).pdf" style="text-decoration:none;">Melody: A Distributed Music-Sharing System</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(35).pdf" style="text-decoration:none;">Using holistic event information in the trigger</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(36).pdf" style="text-decoration:none;">A Keyword-Set Search System for Peer-to-Peer
-Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(36).pdf" style="text-decoration:none;">Likelihood-free inference with an improved cross-entropy estimator</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(37).pdf" style="text-decoration:none;">Herodotus: A Peer-to-PeerWeb Archival System</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(38).pdf" style="text-decoration:none;">A case study of server selection</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(39).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(40).pdf" style="text-decoration:none;">Programming language optimizations for modular router configurations</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(41).pdf" style="text-decoration:none;">Fast Bug Finding in Lock-Free Data Structures with
-CB-DPOR</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(42).pdf" style="text-decoration:none;">Finding Linearization Violations in Lock-Free
-Concurrent Data Structures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(37).pdf" style="text-decoration:none;">A Deep Neural Network for Pixel-Level Electromagnetic Particle Identification in the MicroBooNE Liquid Argon Time Projection Chamber</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(38).pdf" style="text-decoration:none;">Automating the Construction of Jet Observables with Machine Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(39).pdf" style="text-decoration:none;">DijetGAN: A Generative-Adversarial Network Approach for the Simulation of QCD Dijet Events at the LHC</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(40).pdf" style="text-decoration:none;">Constraining the Parameters of High-Dimensional Models with Active Learning</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(41).pdf" style="text-decoration:none;">Machine Learning on data with sPlot background subtraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(42).pdf" style="text-decoration:none;">AI Safety for High Energy Physics</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(43).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(44).pdf" style="text-decoration:none;">SCTP in Go</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(45).pdf" style="text-decoration:none;">Cloud Based Web Scraping for Big Data Applications</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(43).pdf" style="text-decoration:none;">OmniFold: A Method to Simultaneously Unfold All Observables</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(44).pdf" style="text-decoration:none;">Transferability of Deep Learning Models in Searches for New Physics at Colliders</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(45).pdf" style="text-decoration:none;">On the impact of selected modern deep-learning techniques to the performance and celerity of classification models in an experimental high-energy physics use case</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(46).pdf" style="text-decoration:none;">Conclave: secure multi-party computation on big data</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(46).pdf" style="text-decoration:none;">Resonance Searches with Machine Learned Likelihood Ratios</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(47).pdf" style="text-decoration:none;">Corey: An Operating System for Many Cores</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(48).pdf" style="text-decoration:none;">CPHash: A Cache-Partitioned Hash Table</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(47).pdf" style="text-decoration:none;">Equivariant 
+flow-based sampling for lattice gauge theory</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(48).pdf" style="text-decoration:none;">Use of a Generalized Energy Mover's Distance in the Search for Rare Phenomena at Colliders</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(49).pdf" style="text-decoration:none;">Scaling Address-Space Operations on Linux with
-TSX</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(49).pdf" style="text-decoration:none;">Boosted Jet Tagging with Jet-Images and Deep Neural Networks</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(50).pdf" style="text-decoration:none;">Why does cryptographic software fail?
-A case study and open problems</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(51).pdf" style="text-decoration:none;">In Defense of Wireless Carrier Sense</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(52).pdf" style="text-decoration:none;">Verifying concurrent software using movers in CSPEC</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(50).pdf" style="text-decoration:none;">Adversarial learning to eliminate systematic errors: a case study in High Energy Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(51).pdf" style="text-decoration:none;">Deep topology classifiers for a more efficient trigger selection at the LHC</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(52).pdf" style="text-decoration:none;">Convolutional Neural Networks for Electron Neutrino and Electron Shower Energy Reconstruction in the NOvA Detectors</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(53).pdf" style="text-decoration:none;">The Little Manual of
-API Design</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(53).pdf" style="text-decoration:none;">DeepJet: Generic physics object based jet multiclass classification for LHC experiments</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(54).pdf" style="text-decoration:none;">Design and Applications of a Secure and Decentralized Distributed Hash Table </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(54).pdf" style="text-decoration:none;">Calorimetry with Deep Learning: Particle Classification, Energy Regression, and Simulation for High-Energy Physics </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(55).pdf" style="text-decoration:none;">Recovering from intrusions in distributed systems with DARE</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(55).pdf" style="text-decoration:none;">Survey of Machine Learning Techniques for High Energy Electromagnetic Shower Classification</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(56).pdf" style="text-decoration:none;">Verifying a high-performance crash-safe file system using a tree specification </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(56).pdf" style="text-decoration:none;">Tips and Tricks for Training GANs with Physics Constraints </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(57).pdf" style="text-decoration:none;">No Silver Bullet — Essence and Accident in Software Engineering</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(57).pdf" style="text-decoration:none;">Particle Track Reconstruction with Deep Learning</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(58).pdf" style="text-decoration:none;">Proving confidentiality in a file system using DISKSEC</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(59).pdf" style="text-decoration:none;">Calvin: Fast Distributed Transactions
-for Partitioned Database Systems</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(58).pdf" style="text-decoration:none;">Neural Message Passing for Jet Physics</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/hp(59).pdf" style="text-decoration:none;">Neural Networks and Cellular Automata in Experimental High Energy Physics</a></li>
 </ul>
